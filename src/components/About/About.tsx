@@ -27,7 +27,7 @@ export function About(){
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.6 * 1000}>
 
-          <p>I am a dedicated man who strives to be the greatest version of himself.</p>
+          <p> I am a dedicated man who strives to be the greatest version of himself.</p>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.7 * 1000}>
